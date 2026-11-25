@@ -1,7 +1,7 @@
 const titleText = "Done? Nope!";
 const p1Bold = "Nothing's done until I'm dead.";
-const p1Normal = " I made this site by myself.";
-const p2Text = "Suasidable vibe makes me feel alive.";
+const p1Normal = " I made this site by myself. Hmm... this is the second day of this website.";
+const p2Text = "Suasidable vibe makes me feel alive. Ew, why did I write this yesterday?!";
 
 function typeWriter(elementId, text, speed, callback) {
   let i = 0;
